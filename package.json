@@ -1,0 +1,14 @@
+{
+  "name": "wosBot",
+  "version": "1.0.0",
+  "description": "duhansbot",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "keyv": "^4.5.4"
+  }
+}
